@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Bence
-- 👀 I’m interested in Minecraft Development
-- 🌱 I’m currently learning Java
+### Hi there 👋
+My name is Bence. On the internet also known als **BenceIsLive**
+- 🔭 I’m currently working on **Minecraft Plugins** 
+- 🌱 I’m currently learning **Java**
+- 📫 How to reach me:
+  - **Mail: benceislive@gmail.com**
+  - **Discord tag: Bence#0001**
 
-<!---
-BenceIsLive/BenceIsLive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Bence's github stats](https://github-readme-stats.vercel.app/api?username=BenceIsLive)
